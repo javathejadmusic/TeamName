@@ -1,0 +1,39 @@
+#eventos{
+    margin-bottom: 5px;
+    border-style: solid;
+    border-color: black;
+    margin-top: 5px;
+}
+#valoraciones{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-style: solid;
+    border-color: black;
+     
+}
+#valt{
+    border-style: solid;
+    border-color: black;
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: center;
+    
+}
+#entradas{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-style: solid;
+    border-color: black;
+}
+#eventosc{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-style: solid;
+    border-color: black;
+}
+#votaciones{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-style: solid;
+    border-color: black;
+}    
