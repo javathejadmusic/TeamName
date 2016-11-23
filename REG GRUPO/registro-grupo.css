@@ -1,0 +1,65 @@
+#nom{
+    border: solid;
+    text-align: center;
+    margin-bottom: 5px;
+    margin-left: 40%;
+    margin-right: 40%;
+    font: 150% serif;
+}
+#pagina{
+    border: solid;
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+    font: 150% serif;
+}
+#nombre{
+    border-style: solid;
+    border-color: black;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-bottom: 5px;
+}
+#genero{
+    border-style: solid;
+    border-color: black;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-bottom: 5px;
+}
+#numero{
+    border-style: solid;
+    border-color: black;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-bottom: 5px;
+}
+#telefono{
+    border-style: solid;
+    border-color: black;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-bottom: 5px;
+}
+#password{
+    border-style: solid;
+    border-color: black;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-bottom: 5px;
+}
+#mail{
+    border-style: solid;
+    border-color: black;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-bottom: 5px;
+}
+#direccion{
+    border-style: solid;
+    border-color: black;
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-bottom: 5px;
+}
+
