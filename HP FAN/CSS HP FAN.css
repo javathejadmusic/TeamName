@@ -105,6 +105,11 @@ img{
     border-color: black;
     background-color: orange;
 }    
-body{
-    background-color: white;
+
+
+#footer{
+    border-color: black;
+    border-style: solid;
+    background-color: black;
+    color: white;
 }
