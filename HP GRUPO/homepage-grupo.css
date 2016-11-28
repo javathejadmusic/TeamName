@@ -55,6 +55,8 @@ img{
 #busqueda{
     margin-top: 20px;
     margin-left: 90%;
+    border-color: black;
+    border-style: solid;
 }
 
 
@@ -87,9 +89,9 @@ img{
     border-color: black;
 }
 
-footer{
-    text-align: center;
-    border-style: solid;
+#footer{
     border-color: black;
-    
+    border-style: solid;
+    background-color: black;
+    color: white;
 }
