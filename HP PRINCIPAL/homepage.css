@@ -1,10 +1,115 @@
-/*
-To change this license header, choose License Headers in Project Properties.
-To change this template file, choose Tools | Templates
-and open the template in the editor.
-*/
-/* 
-    Created on : 16-nov-2016, 16:23:46
-    Author     : kakau
-*/
+#header{
+    border-style: solid;
+    border-color: black;
+    width: 100%;
+    height: 100%;
+}
+#logo{
+    display: inline-block;
+}
+img{
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+}
+#locales{
+    margin-top: 3%;
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 5%;
+    vertical-align: top;
+    display: inline-block;
+}
+#grupos{
+    margin-top: 3%;
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 5%;
+    vertical-align: top;
+    display: inline-block;
+}
+#perfil{
+    margin-top: 3%;
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 5%;
+    vertical-align: top;
+    display: inline-block;
+}
+#idioma{
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 3%;
+    width: 5%;
+    vertical-align: top;
+    display: inline-block;
+    border: solid;
+    border-color: black;
+}
+#desconectar{
+    margin-top: 3%;
+    margin-left: 5%;
+    vertical-align: top;
+    display: inline-block;
+}
 
+#busqueda{
+    margin-top: 20px;
+    margin-left: 90%;
+    border-color: black;
+    border-style: solid;
+}
+
+#eventos{
+    margin-bottom: 5px;
+    border-style: solid;
+    border-color: black;
+    margin-top: 5px;
+    background-color: orange;
+}
+#valoraciones{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-style: solid;
+    border-color: black;
+    background-color: orange;
+     
+}
+.valt{
+    border-style: solid;
+    border-color: black;
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: center;
+    background-color: orange;
+    margin-top: 2%;
+}
+#entradas{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-style: solid;
+    border-color: black;
+    background-color: orange;
+}
+#eventosc{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-style: solid;
+    border-color: black;
+    background-color: orange;
+}
+#votaciones{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-style: solid;
+    border-color: black;
+    background-color: orange;
+}    
+
+
+#footer{
+    border-color: black;
+    border-style: solid;
+    background-color: black;
+    color: white;
+}
