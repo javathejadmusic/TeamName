@@ -66,7 +66,7 @@ img{
     margin-left: 40%;
     margin-right: 40%;
     text-align: center;
-    
+
 }
 
 #eventos{
@@ -74,19 +74,27 @@ img{
     border-style: solid;
     border-color: black;
     margin-top: 5px;
+    text-align: center;
 }
+
+.noticias{
+    display: inline-block;
+    margin: 20px;
+}
+
 #mis-conciertos{
     margin-top: 5px;
     margin-bottom: 5px;
     border-style: solid;
     border-color: black;
-    
+    text-align: center;
 }
 #conciertos-antiguos{
     margin-top: 5px;
     margin-bottom: 5px;
     border-style: solid;
     border-color: black;
+    text-align: center;
 }
 
 #footer{
