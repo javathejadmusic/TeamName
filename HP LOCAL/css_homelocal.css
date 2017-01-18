@@ -84,13 +84,15 @@ img{
     border-color: black;
     margin-top: 5px;
   background-color: orange;
+  text-align: center;
 }
 #mis-conciertos{
     margin-top: 5px;
     margin-bottom: 5px;
     border-style: solid;
     border-color: black;
-   background-color: orange;   
+   background-color: orange; 
+   text-align: center;  
 }
 #conciertos-antiguos{
     margin-top: 5px;
@@ -98,6 +100,7 @@ img{
     border-style: solid;
     border-color: black;
   background-color: orange;
+  text-align: center;
 }
 
 footer{
