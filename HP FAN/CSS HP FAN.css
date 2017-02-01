@@ -55,7 +55,7 @@ img{
 
 #busqueda{
     margin-top: 20px;
-    margin-left: 90%;
+    margin-left: 85%;
     border-color: black;
     border-style: solid;
 }
@@ -63,47 +63,58 @@ img{
 #eventos{
     margin-bottom: 5px;
     border-style: solid;
-    border-color: black;
+    border-color: orange;
     margin-top: 5px;
-    background-color: orange;
+    background-color: black;
+    color: white
 }
 #valoraciones{
     margin-top: 5px;
     margin-bottom: 5px;
     border-style: solid;
-    border-color: black;
-    background-color: orange;
-     
+    border-color: orange;
+        background-color: black;
+    color: white
+
 }
 .valt{
     border-style: solid;
-    border-color: black;
+    border-color: orange;
     margin-left: 40%;
     margin-right: 40%;
     text-align: center;
-    background-color: orange;
     margin-top: 2%;
+    background-color: black;
+    color: white
+    
 }
 #entradas{
     margin-top: 5px;
     margin-bottom: 5px;
     border-style: solid;
-    border-color: black;
-    background-color: orange;
+    border-color: orange;
+        background-color: black;
+    color: white
+
 }
 #eventosc{
     margin-top: 5px;
     margin-bottom: 5px;
     border-style: solid;
-    border-color: black;
+    border-color: orange;
     background-color: orange;
+        background-color: black;
+    color: white
+
 }
 #votaciones{
     margin-top: 5px;
     margin-bottom: 5px;
     border-style: solid;
-    border-color: black;
-    background-color: orange;
+    border-color: orange;
+  background-color: black;
+        color: white
+
 }    
 
 
