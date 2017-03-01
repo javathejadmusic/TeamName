@@ -1,0 +1,126 @@
+#header{
+    border-style: solid;
+    border-color: black;
+    width: 100%;
+    height: 100%;
+}
+#logo{
+    display: inline-block;
+}
+img{
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+}
+#locales{
+    margin-top: 3%;
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 5%;
+    vertical-align: top;
+    display: inline-block;
+}
+#grupos{
+    margin-top: 3%;
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 5%;
+    vertical-align: top;
+    display: inline-block;
+}
+#perfil{
+    margin-top: 3%;
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 5%;
+    vertical-align: top;
+    display: inline-block;
+}
+#idioma{
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 3%;
+    width: 5%;
+    vertical-align: top;
+    display: inline-block;
+    border: solid;
+    border-color: black;
+}
+#desconectar{
+    margin-top: 3%;
+    margin-left: 5%;
+    vertical-align: top;
+    display: inline-block;
+}
+
+#busqueda{
+    margin-top: 20px;
+    margin-left: 85%;
+    border-color: black;
+    border-style: solid;
+}
+
+#eventos{
+    margin-bottom: 5px;
+    border-style: solid;
+    border-color: orange;
+    margin-top: 5px;
+    background-color: black;
+    color: white
+}
+#valoraciones{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-style: solid;
+    border-color: orange;
+        background-color: black;
+    color: white
+
+}
+.valt{
+    border-style: solid;
+    border-color: orange;
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: center;
+    margin-top: 2%;
+    background-color: black;
+    color: white
+    
+}
+#entradas{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-style: solid;
+    border-color: orange;
+        background-color: black;
+    color: white
+
+}
+#eventosc{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-style: solid;
+    border-color: orange;
+    background-color: orange;
+        background-color: black;
+    color: white
+
+}
+#votaciones{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-style: solid;
+    border-color: orange;
+  background-color: black;
+        color: white
+
+}    
+
+
+#footer{
+    border-color: black;
+    border-style: solid;
+    background-color: black;
+    color: white;
+}
