@@ -1,0 +1,100 @@
+#regfan{
+    border-style: solid;
+    border-color: orange;
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: center;
+    color: white;
+    margin-bottom: 1%;
+    margin-top: 1%;
+    font: 200% serif;
+}
+#all{
+    
+   
+    text-align: center;
+    margin-top: 1%;
+    margin-left: 20%;
+    margin-right: 20%;
+    color: white;
+    font: 150% serif;
+}
+#nombre{
+    border-style: solid;
+    border-color: orange;
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: center;
+   
+    margin-top: 5px;
+      
+   
+}
+#contrasena{
+    border-style: solid;
+    border-color: orange;
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: center;
+    
+    margin-top: 5px;
+}
+#municipio{
+    border-style: solid;
+    border-color: orange;
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: center;
+    
+    margin-top: 5px;
+}
+#email{
+    border-style: solid;
+    border-color: orange;
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: center;
+    
+    margin-top: 5px;
+}
+#telefono{
+    border-style: solid;
+    border-color: orange;
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: center;
+   
+    margin-top: 5px;
+}
+#sexo{
+    border-style: solid;
+    border-color: orange;
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: center;
+    
+    margin-top: 5px;
+}
+#nacimiento{
+    border-style: solid;
+    border-color: orange;
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: center;
+    
+    margin-top: 5px;
+}
+#regbut{
+    border-style: solid;
+    border-color: orange;
+    margin-left: 40%;
+    margin-right: 40%;
+    text-align: center;
+   
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+#subsexo{
+    font: 50% serif;
+    color: WHITE;
+}
