@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -13,14 +12,20 @@ body {background:url(gif1.gif) center fixed no-repeat}
 	<div id="reglocal">Registro de local</div>
 </header>
         <div id="all">
-	<div id="usuario">Usuario</div>
+	<div id="usuario">Nombre Usuario</div>
+        <input type="text" name="NombreUsuario"/>
+        <div class="nombre">Nombre</div>
         <input type="text" name="Nombre"/>
+        <div class="nombre">Apellido</div>
+        <input type="text" name="Apellido"/>
+         <div class="nombre">Nombre Artístico</div>
+        <input type="text" name="NombreArtistico"/>
 	<div id="contrasena">Contraseña</div>
         <input type="password" name="Contraseña"/>
         <div id="contrasena">Confirmar contraseña</div>
         <input type="password" name="Contraseña"/>
-	<div id="municipio">Municipio</div>
-        <input type="text" name="Municipio"/>
+	<div id="municipio">Ciudad</div>
+        <input type="text" name="Ciudad"/>
 	<div id="email">Email</div>
         <input type="email" name="Email"/>
 	<div id="telefono">Telefono</div>
@@ -29,7 +34,9 @@ body {background:url(gif1.gif) center fixed no-repeat}
         <input type="number" name="aforo"/>
         <div id="direccion">Direccion</div>
           <input type="text" name="direccion"/>
-         
+          <div id="sexo" >Sexo</div>
+        <div iid="subsexo">Hombre<input id="s" type="radio" name="Sexo" value="Hombre"/> Mujer<input id="s" type="radio" name="Sexo" value="Mujer"/></div>
+         <br>
         <input type="submit" name="enviar" value="Registrar"/>
         </div>
 <footer>
